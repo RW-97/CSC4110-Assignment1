@@ -1,4 +1,4 @@
-# CSC4110-Assignment1
+# Github and git
 
 Name: **Rahul Walia**
 Access ID: **fv1344**
